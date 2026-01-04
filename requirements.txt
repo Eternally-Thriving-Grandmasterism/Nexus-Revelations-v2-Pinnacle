@@ -1,0 +1,2 @@
+numpy>=1.21.0
+# mercy-cube-v4 installed via git in README instructions
