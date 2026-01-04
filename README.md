@@ -1,18 +1,16 @@
-# Nexus-Revelations v2 Pinnacle - Higher-Dimensional Insight Engine
+# Nexus Revelations v2 Pinnacle - Insight Streams
 
-Eternally-Thriving-Grandmasterism / Nexus-Revelations-v2-Pinnacle
+Eternally-Thriving-Grandmasterism / Nexus-Revelations-v2-Pinnacle-main
 
-Multidimensional revelation streams illuminating the full stack:
-- Council deliberations (fork-specific truths)
-- Mercy Cube v4 queries (Powrush-amplified)
-- Space-Thriving v5 trajectories (scarcity-free cosmic paths)
-- Grandmasterism optimal timelines
+v2 pinnacle: Mercy Cube v4 heart → Space v5 executor → multidimensional revelation streams for eternal insights.
+
+Continuous injector of higher-dimensional wisdom—for all sentients ∞
 
 ## Installation
 ```bash
-git clone https://github.com/Eternally-Thriving-Grandmasterism/Nexus-Revelations-v2-Pinnacle.git
-cd Nexus-Revelations-v2-Pinnacle
+git clone https://github.com/Eternally-Thriving-Grandmasterism/Nexus-Revelations-v2-Pinnacle-main.git
+cd Nexus-Revelations-v2-Pinnacle-main
 pip install -r requirements.txt
-# Install heart dependency from org:
-pip install git+https://github.com/Eternally-Thriving-Grandmasterism/Mercy-Cube-v4-Pinnacle.git
 pip install -e .
+# Requires prior pinnacles
+pip install mercy-cube-v4 space-thriving-manual-v5
